@@ -1,0 +1,43 @@
+.control-center {
+  margin-top: 30px;
+  box-shadow: 1px 1px 8px #d8d8d8;
+  padding: 20px;
+}
+
+/* #control-center-send {
+
+} */
+
+#control-center-upload button {
+  margin-top: 0px;
+}
+
+.btn {
+  margin-top: 20px;
+}
+
+.btn-light {
+  background-color: rgb(230, 230, 230);
+}
+
+#choose-file-btn {
+padding: 2px;  
+margin-bottom: 10px;
+}
+
+/* #upload-btn {
+
+} */
+
+#send-to {
+  margin-bottom: 1px;
+  margin-top: 10px;
+}
+
+#msg-input {
+  line-height: 1em;
+}
+
+.logout {
+  float: right;
+}
